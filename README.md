@@ -186,3 +186,27 @@ Returns the products and their attributes in JSON format.
       "storeId": "Store ID"
     }
   ]
+
+
+# Most Commonly Asked Questions
+
+### 1. What is the return policy at Sunglass Hut?
+Sunglass Hut offers a 30-day return policy for products in their original condition. Check their official website for detailed return instructions and conditions.
+
+### 2. How can I find a specific brand of sunglasses at Sunglass Hut?
+You can use the search functionality on their website or visit a physical store. Additionally, you can use the unofficial API's `/product/brand` endpoint to search for products by brand.
+
+### 3. Does Sunglass Hut offer warranty on their products?
+Yes, Sunglass Hut offers a manufacturer's warranty on their products. Specific warranty details can vary by brand and product, so it's best to check with Sunglass Hut or the manufacturer's website.
+
+### 4. How can I track my order from Sunglass Hut?
+You can track your order through the confirmation email sent after purchase or by logging into your account on the Sunglass Hut website.
+
+### 5. What are the available shipping options at Sunglass Hut?
+Sunglass Hut offers various shipping options including standard, expedited, and next-day delivery. Shipping availability and times may vary based on location and product.
+
+### 6. Can I get my sunglasses repaired at Sunglass Hut?
+Yes, Sunglass Hut offers repair services for certain brands and types of damage. It's recommended to visit a store or contact customer service for specific repair inquiries.
+
+### 7. Does Sunglass Hut offer prescription sunglasses?
+Yes, Sunglass Hut offers a range of prescription sunglasses. You can browse their selection online or visit a store for assistance with prescription lenses.
