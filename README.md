@@ -1,6 +1,7 @@
 # Sunglass Hut Unofficial API
 
 This unofficial API provides endpoints for retrieving product information, related products, and searching for products by category or brand. It allows developers to integrate Sunglass Hut product data into their applications.
+This API is listed on rapidadpi -> https://rapidapi.com/belchiorarkad-FqvHs2EDOtP/api/sunglass-hut
 
 ## GET /product/info
 
